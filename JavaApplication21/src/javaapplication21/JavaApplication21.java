@@ -18,6 +18,7 @@ public class JavaApplication21 {
         // TODO code application logic here
         int num;
         int sum;
+        double avg;
     }
     
 }
